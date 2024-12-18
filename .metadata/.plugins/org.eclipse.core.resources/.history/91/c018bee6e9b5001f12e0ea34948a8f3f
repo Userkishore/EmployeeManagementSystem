@@ -1,0 +1,5 @@
+package com.employee.springboot.entity;
+
+public class Employee {
+
+}
